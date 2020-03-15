@@ -1,0 +1,2 @@
+rootProject.name='Moshi Gson Perf Test'
+include ':app'
